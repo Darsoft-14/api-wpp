@@ -1,0 +1,11 @@
+npm i whatsapp-web.js
+npm i qrcode-terminal
+
+npm install express
+npm install soket.io
+
+npm install qrcode //para leer el qr en la vista
+
+npm install -g nodemon   //se reinicia automaticamente cuando detecta cambios en node
+
+npm install http
